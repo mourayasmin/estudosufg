@@ -1,0 +1,8 @@
+Número da Sala: 1
+Nome da Sala: Sala 1
+Localização da Sala: Piso 1
+
+Número da Sala: 2
+Nome da Sala: Sala 2
+Localização da Sala: Piso 1
+
